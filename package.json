@@ -1,0 +1,19 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "test for lambda dithub action deploy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yifatAmit/testRepo_YA.git"
+  },
+  "author": "Yifat Amit",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yifatAmit/testRepo_YA/issues"
+  },
+  "homepage": "https://github.com/yifatAmit/testRepo_YA#readme"
+}
