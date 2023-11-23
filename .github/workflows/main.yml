@@ -33,7 +33,7 @@ jobs:
           aws_secret_access_key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
 
           ## chnage the region acording to the Lambda function
-          aws_region: eu-west-1
+          aws_region: eu-central-1
 
           ## use the Lambda name 
           function_name: test-function-YA
