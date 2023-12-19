@@ -6,4 +6,4 @@ exports.handler = async (event) => {
     return response
   }
 
-  // change code for AZ#62002 03
+  // change code for AZ#62002 04
